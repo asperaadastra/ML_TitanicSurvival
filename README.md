@@ -1,6 +1,6 @@
 # Titanic Survival Prediction: Machine Learning Project
 
-![Titanic](titanic.jpg)
+![Titanic](titanic.jpeg)
 
 Welcome to the Titanic Survival Prediction project! This repository contains code and analysis for predicting passenger survival on the Titanic using a logistic regression algorithm. By leveraging machine learning techniques, we aim to uncover patterns and insights from the passenger data that can help predict survival outcomes accurately.
 
