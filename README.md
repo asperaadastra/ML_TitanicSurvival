@@ -6,7 +6,7 @@ Welcome to the Titanic Survival Prediction project! This repository contains cod
 
 ## Project Overview
 
-- **Dataset:** The dataset used for this project contains passenger information such as age, gender, class, and fare. The goal is to predict whether a passenger survived or not based on these attributes.
+- **Dataset:** The dataset used for this project contains passenger information such as Name, Sex, Age, SibSp(siblings and spouses), Ticket, Cabin, Embarked, and fare. The goal is to predict whether a passenger survived or not based on these attributes.
 
 - **Data Preprocessing:** The dataset underwent thorough cleaning and preprocessing, including handling missing values, encoding categorical features, and scaling numerical attributes. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships among variables.
 
